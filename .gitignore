@@ -1,0 +1,11 @@
+__pycache__/
+/depth_stream
+/calibration.json
+/.calibration-*
+/workspace/
+.DS_Store
+.venv/
+.env
+.env.*
+*.npz
+*.log

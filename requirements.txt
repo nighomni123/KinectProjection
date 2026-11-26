@@ -1,0 +1,2 @@
+PyYAML>=6,<7
+kinect-touch @ git+https://github.com/nighomni123/KinectTouch.git@13eb0660a8ca2a15bfeea0277a05391b88b6daec
